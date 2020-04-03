@@ -13,8 +13,8 @@ Written in Go (1.5).
 
 ## Install
 You need a Go environment and to download and install the source. There are binaries, check the binaries folder and the README in there.
- - go get github.com/olliephillips/espruingo
- - go install github.com/olliephillips/espruingo
+ - go get github.com/OmegaRogue/espruingo
+ - go install github.com/OmegaRogue/espruingo
 
 ## Documentation
 Intended to run as a binary, once installed, make sure in your PATH so you can run like this:
