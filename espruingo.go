@@ -11,7 +11,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/daviddengcn/go-colortext"
-	"github.com/go-fsnotify/fsnotify"
+	"github.com/fsnotify/fsnotify"
 	"github.com/jacobsa/go-serial/serial"
 	"github.com/tdewolff/minify"
 	"github.com/tdewolff/minify/js"
